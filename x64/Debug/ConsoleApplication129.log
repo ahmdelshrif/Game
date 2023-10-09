@@ -1,0 +1,6 @@
+﻿  ConsoleApplication129.cpp
+C:\Users\ahmd\source\repos\ConsoleApplication129\ConsoleApplication129.cpp(44,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahmd\source\repos\ConsoleApplication129\ConsoleApplication129.cpp(49,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahmd\source\repos\ConsoleApplication129\ConsoleApplication129.cpp(54,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahmd\source\repos\ConsoleApplication129\ConsoleApplication129.cpp(58,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication129.vcxproj -> C:\Users\ahmd\source\repos\ConsoleApplication129\x64\Debug\ConsoleApplication129.exe
